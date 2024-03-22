@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651323210384",
+    "firebase_url": "https://boxpt-a1ee0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "boxpt-a1ee0",
+    "storage_bucket": "boxpt-a1ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651323210384:android:08814d636397dc7bd53615",
+        "android_client_info": {
+          "package_name": "B0x.PT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651323210384-jjfvhucr8p3rbol1u5e86m0s9dmfju0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "B0x.PT",
+            "certificate_hash": "48c241113af27dae637228041c3a51f81b5d36aa"
+          }
+        },
+        {
+          "client_id": "651323210384-la5nm5tm5v4qsbos14h11sb39poebeni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoUZCfrvFnjblU9GEFWhzpJHvXKkgM7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651323210384-0immf87v054c16lsdfpnjo8fhha2o030.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
